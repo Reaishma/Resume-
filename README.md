@@ -52,6 +52,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 ### EMERGING TECHNOLOGIES
 - Enterprise supply chain management system
 - Block chain based supply chain management system
+-FoodTrace - Blockchain Food Origin Tracking System
 - Quantum computing cryptography laboratory
 - Quantum computing Algorithm simulator
 
