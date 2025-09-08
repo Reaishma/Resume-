@@ -23,6 +23,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 ### SOFTWARE DEVELOPMENT(FULL STACK DEVELOPMENT) AND ARCHITECTURE
 - Modern Cart-E-commerce Platform
 - Cerebro Apex
+- Microservice mastery application 
 - Eco Web Plus
 - Tip Calc pro
 - Mood Journal – A mental health tracking application
