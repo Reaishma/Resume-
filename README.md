@@ -42,7 +42,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 ### CYBERSECURITY
 - Secure pass analyzer
 - SIEM (security information and event management)
-- Secure access 
+- Secure access(Intelligent Document processing system)
 - security scanner 
 
 ### HEALTH CARE INFORMATICS
