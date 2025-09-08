@@ -42,6 +42,8 @@ A results-driven technologist specializing in designing and deploying scalable A
 ### CYBERSECURITY
 - Secure pass analyzer
 - SIEM (security information and event management)
+- Secure access 
+- cloud native security platform 
 
 ### HEALTH CARE INFORMATICS
 - Health care informatics solution
