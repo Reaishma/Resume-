@@ -43,7 +43,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 - Secure pass analyzer
 - SIEM (security information and event management)
 - Secure access 
-- cloud native security platform 
+- security scanner 
 
 ### HEALTH CARE INFORMATICS
 - Health care informatics solution
@@ -52,6 +52,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 - Cloud Image Vault
 - Serverless Hub
 - Multicloud Big Data Platform
+- cloud native security platform
 
 ### EMERGING TECHNOLOGIES
 - Enterprise supply chain management system
