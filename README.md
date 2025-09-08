@@ -27,6 +27,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 - Tip Calc pro
 - Mood Journal – A mental health tracking application
 - Smart City management
+- Smart Grading App(IOS App development)
 
 ### MACHINE LEARNING AND AI
 - Natural language AI
@@ -52,7 +53,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 ### EMERGING TECHNOLOGIES
 - Enterprise supply chain management system
 - Block chain based supply chain management system
--FoodTrace - Blockchain Food Origin Tracking System
+- FoodTrace - Blockchain Food Origin Tracking System
 - Quantum computing cryptography laboratory
 - Quantum computing Algorithm simulator
 
