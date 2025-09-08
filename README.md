@@ -27,7 +27,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 - Tip Calc pro
 - Mood Journal – A mental health tracking application
 - Smart City management
-- Smart Grading App(IOS App development)
+- Smart Grading App(multiplatform mobile application)
 
 ### MACHINE LEARNING AND AI
 - Natural language AI
