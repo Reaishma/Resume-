@@ -198,6 +198,8 @@ Mastered predictive modeling and machine learning techniques, enabling the devel
 
 **TipCalc Pro:** Developed a Progressive Web App (PWA) that boosted its adoption by 85%.
 
+**Smart Grading App:**Developed a Smart Grading App that achieved 95% grading accuracy, 99% uptime, reduced grading time by 30%, and cut grading errors by 85%.
+
 **Cloud image vault** – Architected a cloud-based image storage solution that increased the cache hit ratio to 90% and was capable of processing 10,000 image uploads per hour.
 
 **Healthcare informatics solution** – Created a data management system that improved patient flow efficiency by 35%.
