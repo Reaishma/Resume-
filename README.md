@@ -94,6 +94,11 @@ A results-driven technologist specializing in designing and deploying scalable A
 
 **Back-end:** Node.js 18+ (Express.js, Drizzle ORM), Django/Flask, Spring Boot 3.2.0+, Laravel 10+, ASP.NET Core 8
 
+### App Development 
+**IOS:** Swift 5.6+,Xcode 14.0+
+**Android:** Kotlin,JDK 8+
+**Flutter:** Flutter SDK 3.0+,Dart SDK 2.17+
+
 ### Data Science & Big Data Analytics
 
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, Tableau, Power BI
@@ -112,16 +117,24 @@ A results-driven technologist specializing in designing and deploying scalable A
 
 **Concepts:** Predictive analytics, computer vision (COCO, YOLO), GAN, VAE, SHAP, LIME
 
+**Technologies:** Terrasact,OCR 
+
 ### Cloud & DevOps
 
-**Cloud platforms:** AWS (Glue, EC2, S3, Lambda), Azure DevOps, Azure Cloud Services, Google Cloud (BigQuery)
+**Cloud platforms:** AWS (Glue, EC2, S3, Lambda), Azure DevOps, Azure Cloud Services, Azure resource manager, Azure SDK, Google Cloud (BigQuery),AWS (KMS,WAF,AWS SDK),
+
+**Cloud Monitoring and logging :** Sumo logic 
+
+**DevsecOps:** SAST- SonarQube,Veracode, Checkmarx
+DAST- Acunetix,Burp suite 
+Security- Cloud HSM, hasicorp sentinel,OPA policy 
 
 **Containerization:** Docker, Kubernetes
 
 **CI/CD:** Jenkins, GitHub, GitLab, Bitbucket
 
 ### Database Management
-PostgreSQL, MySQL, MongoDB, Redis
+PostgreSQL, MySQL, MongoDB, Redis, Cassandra
 
 ### Cybersecurity
 **SIEM:** security analytics, threat detection, vulnerability assessment, risk management
@@ -132,7 +145,7 @@ PostgreSQL, MySQL, MongoDB, Redis
 
 ### Emerging Technologies
 
-**Blockchain:** Hyperledger Fabric, IBM Blockchain, CouchDB, smart contracts
+**Blockchain:** Hyperledger Fabric, IBM Blockchain, CouchDB, smart contracts, Ethereum, solidity, truffle suite, Ganache,Web3.js
 
 **Quantum Computing:** IBM Qiskit, Microsoft Q#, Google Cirq, quantum algorithms, quantum machine learning, IoT, Microservices
 
