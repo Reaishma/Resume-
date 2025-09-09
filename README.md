@@ -226,6 +226,8 @@ Mastered predictive modeling and machine learning techniques, enabling the devel
 
 **Enterprise and Blockchain-based Supply Chain:** Developed a supply chain solution that optimized warehouse capacity to 92%, achieved 81% accuracy in demand forecasting, and 92% ETA accuracy in shipment tracking. It also ensured 99.9% uptime for critical systems and led to a 30% reduction in inventory costs.
 
+**Foodtrace- Block chain food origin tracking System:**Developed a blockchain-based food origin tracking system that achieved 95% transparency, reduced supply chain costs by 25%, and maintained 90% accuracy in quality scoring with an 85% reduction in counterfeit products.
+
 ## CORE COMPETENCIES & METHODOLOGIES
 
 **Software Development:** Agile/Scrum, CI/CD, Microservices, Test-Driven Development (TDD)
