@@ -206,6 +206,8 @@ Mastered predictive modeling and machine learning techniques, enabling the devel
 
 **SIEM** – Built a Security Information and Event Management (SIEM) system that processed 100,000 security events per hour with 99.9% accuracy.
 
+**Security scanner application**-Developed a Security Scanner Application that achieved 95% vulnerability detection rate,reduced security incidents by 90%, and cut incident response times by 85%.
+
 **NLP Platform** – Created a natural language processing platform that achieved 90% sentiment analysis accuracy, produced high-quality text summaries with 85% retention of key points, and improved attention visualization by 80%.
 
 **Genomic care** – Developed a platform that uses genetic data to predict disease risk with 90% accuracy.
