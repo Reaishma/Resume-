@@ -216,6 +216,8 @@ Mastered predictive modeling and machine learning techniques, enabling the devel
 
 **Cloud based business intelligence** – Implemented a platform that enhanced customer insights by 25% through 360° customer analytics and an automated machine learning model.
 
+**Cloud Native Security platform**- Developed a Cloud Native Security Platform that  achieved 95% threat detection accuracy, and reduced security incidents by 92%, with 30% lower security costs.
+
 **Advanced stock market prediction** – Created an analytics tool that analyzed over 500 stocks, providing 95% accuracy in portfolio comparison and risk analysis.
 
 **Cerebro Apex** – Led a project that achieved a 90% reduction in development time, 95% accuracy in performance prediction, and an 80% faster deployment cycle.
