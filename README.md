@@ -214,6 +214,8 @@ Mastered predictive modeling and machine learning techniques, enabling the devel
 
 **Cricket century prediction** – Developed a predictive model that achieved 85% prediction accuracy for centuries in international cricket matches.
 
+**Intelligent document processing system**-Developed an Intelligent Document Processing System that achieved 95% document classification accuracy, reduced manual processing time by 90%, and increased efficiency by 85% with 99.9% system uptime.
+
 **Serverless Hub** – Architected a serverless solution that led to a 95% reduction in security incidents and a 30% reduction in costs.
 
 **Cloud based business intelligence** – Implemented a platform that enhanced customer insights by 25% through 360° customer analytics and an automated machine learning model.
