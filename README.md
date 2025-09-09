@@ -97,7 +97,7 @@ A results-driven technologist specializing in designing and deploying scalable A
 ### App Development 
 **IOS:** Swift 5.6+,Xcode 14.0+
 **Android:** Kotlin,JDK 8+
-**Flutter:** Flutter SDK 3.0+,Dart SDK 2.17+
+**Cross platform:** Flutter SDK 3.0+,Dart SDK 2.17+
 
 ### Data Science & Big Data Analytics
 
