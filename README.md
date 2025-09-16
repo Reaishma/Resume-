@@ -3,7 +3,7 @@
 
 [https://reaishma.github.io/Project-portfolio/](https://reaishma.github.io/Project-portfolio/)
 
-![Digital project Portfolio](https://github.com/Reaishma/Project-portfolio/blob/main/Screenshot_20250903-150321_1.jpg)
+
 
 ## PROFILE SUMMARY
 
