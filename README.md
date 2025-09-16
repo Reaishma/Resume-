@@ -178,7 +178,7 @@ Mastered predictive modeling and machine learning techniques, enabling the devel
 ### Independent Software Developer
 **Duration:** January 2024 – Present
 
-**Description:** As a Full-Stack Developer and Technologist, I have architected and deployed a diverse portfolio of 29 multi-stage projects. Specializing in the design and deployment of scalable AI/ML and Cloud-native systems, I have taken full ownership of the project lifecycle, from initial design and development to testing and deployment, showcasing a high degree of discipline and technical versatility.
+**Description:** As a Full-Stack Developer and Technologist, I have architected and deployed a diverse portfolio of 30 + multi-stage projects. Specializing in the design and deployment of scalable AI/ML and Cloud-native systems, I have taken full ownership of the project lifecycle, from initial design and development to testing and deployment, showcasing a high degree of discipline and technical versatility.
 
 ## Expertise & ACHIEVEMENTS
 
