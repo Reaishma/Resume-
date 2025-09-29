@@ -13,7 +13,10 @@
 **GitLab:** [https://gitlab.com/users/Reaishma/projects](https://gitlab.com/users/Reaishma/projects)  
 **Bitbucket:** Available
 
-A results-driven technologist specializing in designing and deploying scalable AI/ML and Cloud-native systems built on microservices architecture. My expertise spans Full-Stack Development, Big Data engineering, and robust DevOps pipelines, all secured with advanced Cybersecurity practices. Since graduating in 2021, I have meticulously pursued a self-directed path gaining foundational system architecture skills from VLSI training, followed by intensive 6-month certifications in data analytics and IT support.
+A results-driven technologist specializing in designing and deploying scalable AI/ML and Cloud-native systems built on microservices architecture. My expertise spans Full-Stack Development, Big Data engineering, and robust DevOps pipelines, all secured with advanced Cybersecurity practices. Since graduating in 2021, I have meticulously pursued a self-directed path gaining foundational system architecture skills from VLSI 
+training, followed by intensive 6-month certifications in data analytics and IT 
+support. Leveraging this expertise, I have since architected and executed 35
+multistage projects in domains including Blockchain and Quantum Computing since 2024, showcasing my continuous commitment to innovation and professional growth through a modern, visually engaging digital portfolio.
 
 ## FEATURED PORTFOLIO PROJECTS
 
@@ -175,7 +178,7 @@ Mastered predictive modeling and machine learning techniques, enabling the devel
 
 ## Professional Experience
 
-### Independent Software Developer
+### Independent Software Developer& Solution Architect 
 **Duration:** January 2024 – Present
 
 **Description:** As a Full-Stack Developer and Technologist, I have architected and deployed a diverse portfolio of 30 + multi-stage projects. Specializing in the design and deployment of scalable AI/ML and Cloud-native systems, I have taken full ownership of the project lifecycle, from initial design and development to testing and deployment, showcasing a high degree of discipline and technical versatility.
